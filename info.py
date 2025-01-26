@@ -101,8 +101,8 @@ VERIFY = bool(environ.get('VERIFY', True)) # Verification On ( True ) / Off ( Fa
 HOWTOVERIFY = environ.get('HOWTOVERIFY', 'https://t.me/+FOxMauI5h880ODA1') # How to open tutorial link for verification
 
 # Others  
-SHORTLINK_URL = environ.get('SHORTLINK_URL', 'tnlinks.in')
-SHORTLINK_API = environ.get('SHORTLINK_API', '5d2cccf0bfdf0b16384bf4ee01a04288c67faa19')
+SHORTLINK_URL = environ.get('SHORTLINK_URL', 'https://mdiskshortner.link/')
+SHORTLINK_API = environ.get('SHORTLINK_API', 'a0d3bf2290c7c7e5986c13087632d895efdaf163')
 IS_SHORTLINK = bool(environ.get('IS_SHORTLINK', True))
 DELETE_CHANNELS = [int(dch) if id_pattern.search(dch) else dch for dch in environ.get('DELETE_CHANNELS', '0').split()]
 MAX_B_TN = environ.get("MAX_B_TN", "5")
