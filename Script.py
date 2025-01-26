@@ -3,19 +3,19 @@ class script(object):
 
 ɪ ᴀᴍ ᴛʜᴇ ᴍᴏꜱᴛ ᴘᴏᴡᴇʀꜰᴜʟ ᴀᴜᴛᴏ ꜰɪʟᴛᴇʀ ʙᴏᴛ ᴡɪᴛʜ ᴘʀᴇᴍɪᴜᴍ ꜰᴇᴀᴛᴜʀᴇꜱ, ᴊᴜsᴛ ᴀᴅᴅ ᴍᴇ ᴛᴏ ʏᴏᴜʀ ɢʀᴏᴜᴘ ᴀɴᴅ ᴇɴᴊᴏʏ
 
-‣ ᴍᴀɪɴᴛᴀɪɴᴇᴅ ʙʏ : <a href='https://telegram.me/codeflix_bots'>sᴜʙᴀʀᴜ</a></b>
+‣ ᴍᴀɪɴᴛᴀɪɴᴇᴅ ʙʏ : <a href='https://t.me/Sanjudg01'>sᴜʙᴀʀᴜ</a></b>
 """
-    GSTART_TXT = """<b>ʜᴇʏ {},\n\nɪ ᴀᴍ ᴛʜᴇ ᴍᴏꜱᴛ ᴘᴏᴡᴇʀꜰᴜʟ ᴀᴜᴛᴏ ꜰɪʟᴛᴇʀ ʙᴏᴛ ᴡɪᴛʜ ᴘʀᴇᴍɪᴜᴍ ꜰᴇᴀᴛᴜʀᴇꜱ.\n\nᴍᴀɴᴛᴀɪɴᴇᴅ ʙʏ : <a href="https://t.me/cryxelys">ᴍɪᴋᴇʏ</a></b>"""
+    GSTART_TXT = """<b>ʜᴇʏ {},\n\nɪ ᴀᴍ ᴛʜᴇ ᴍᴏꜱᴛ ᴘᴏᴡᴇʀꜰᴜʟ ᴀᴜᴛᴏ ꜰɪʟᴛᴇʀ ʙᴏᴛ ᴡɪᴛʜ ᴘʀᴇᴍɪᴜᴍ ꜰᴇᴀᴛᴜʀᴇꜱ.\n\nᴍᴀɴᴛᴀɪɴᴇᴅ ʙʏ : <a href="https://t.me/Sanjudg01">ᴍɪᴋᴇʏ</a></b>"""
     
     HELP_TXT = """<b>ᴄʟɪᴄᴋ ᴏɴ ᴛʜᴇ ʙᴜᴛᴛᴏɴ ʙᴇʟʟᴏᴡ ᴛᴏ ɢᴇᴛ ᴅᴇsᴄʀɪᴘᴛɪᴏɴ ᴀʙᴏᴜᴛ sᴘᴇᴄɪғɪᴄs ᴄᴏᴍᴍᴀɴᴅ!</b>"""
 
     ABOUT_TXT = """
-<b>❍ ᴍʏ ɴᴀᴍᴇ : <a href="https://t.me/Lucy_Filter_bot">ʟᴜᴄʏ ʙᴏᴛ</a>
-❍ ᴄʀᴇᴀᴛᴏʀ : <a href="https://t.me/veldxd">мɪкєʏ</a>
+<b>❍ ᴍʏ ɴᴀᴍᴇ : <a href="https://t.me/Sanju_Developer">Sanju ʙᴏᴛ</a>
+❍ ᴄʀᴇᴀᴛᴏʀ : <a href="https://t.me/Sanjudg01">Sanju</a>
 ❍ ʟɪʙʀᴀʀʏ : <a href="https://pyrogram.org/">ᴘʏʀᴏɢʀᴀᴍ</a>
 ❍ ʟᴀɴɢᴜᴀɢᴇ : <a href="https://www.python.org/">ᴘʏᴛʜᴏɴ</a>
 ❍ ᴅᴀᴛᴀʙᴀꜱᴇ : <a href="https://www.mongodb.com/">ᴍᴏɴɢᴏ ᴅʙ</a>
-❍ ʜᴏꜱᴛᴇᴅ ᴏɴ : <a href="https://t.me/codeflix_bots">ᴠᴘs</a>
+❍ ʜᴏꜱᴛᴇᴅ ᴏɴ : <a href="https://t.me/Sanju_Developer">ᴠᴘs</a>
 ❍ ʙᴜɪʟᴅ ꜱᴛᴀᴛᴜꜱ : ᴠ4.4.1 [ᴀᴅᴠᴀɴᴄᴇ ғᴇᴀᴛᴜʀᴇs]
 
 ➲  ɪ ᴄᴀɴ ʀᴇꜱᴛʀɪᴄᴛ ᴜꜱᴇʀꜱ.
@@ -44,11 +44,11 @@ class script(object):
 ᴀɴᴅ ᴜsɪɴɢ ᴀɴᴅ <a href='https://cloud.mongodb.com'>ᴍᴏɴɢᴏ</a> ᴀs ᴅᴀᴛᴀʙᴀsᴇ.
 
 
-» ʜᴇʀᴇ ɪs ᴍʏ sᴏᴜʀᴄᴇ ᴄᴏᴅᴇ : <a href='https://github.com/codeflix-bots/autofilter'>ɢɪᴛʜᴜʙ</a>
+» ʜᴇʀᴇ ɪs ᴍʏ sᴏᴜʀᴄᴇ ᴄᴏᴅᴇ : <a href='https://t.me/Sanju_Developer'>ɢɪᴛʜᴜʙ</a>
 
 
 ʟᴜᴄʏ ɪs ʟɪᴄᴇɴsᴇᴅ ᴜɴᴅᴇʀ ᴛʜᴇ <a href='https://github.com/Codeflix-Bots/AutoFilter/blob/Lucy-main/LICENSE'>ᴍɪᴛ ʟɪᴄᴇɴsᴇ</a> .
-© 2023 - 2024 | <a href='https://t.me/+DnmZbLjS0iw0YWI1'>sᴜᴘᴘᴏʀᴛ ᴄʜᴀᴛ</a> , ᴀʟʟ ʀɪɢʜᴛs ʀᴇsᴇʀᴠᴇᴅ.
+© 2023 - 2024 | <a href='https://t.me/preethamdg06'>sᴜᴘᴘᴏʀᴛ ᴄʜᴀᴛ</a> , ᴀʟʟ ʀɪɢʜᴛs ʀᴇsᴇʀᴠᴇᴅ.
 </b>"""
 
     MAIN_TXT = """
@@ -69,9 +69,9 @@ class script(object):
 Wᴇ ᴇᴍᴘʜᴀsɪsᴇ ᴛʜᴇ ɪᴍᴘᴏʀᴛᴀɴᴄᴇ ᴏғ ɴᴇᴇᴅɪɴɢ ғᴜɴᴅs ᴛᴏ ᴋᴇᴇᴘ ʟᴜᴄʏ ᴜɴᴅᴇʀ ᴀᴄᴛɪᴠᴇ ᴅᴇᴠᴇʟᴏᴘᴍᴇɴᴛ. Yᴏᴜʀ ᴅᴏɴᴀᴛɪᴏɴs ɪɴ ᴀɴʏ ᴀᴍᴏᴜɴᴛ ᴏғ ᴍᴏɴᴇʏ ᴛᴏ ʟᴜᴄʏ sᴇʀᴠᴇʀs ᴀɴᴅ ᴏᴛʜᴇʀ ᴜᴛɪʟɪᴛɪᴇs ᴡɪʟʟ ᴀʟʟᴏᴡ ᴜs ᴛᴏ sᴜsᴛᴀɪɴ ᴛʜᴇ ʟɪғᴇsᴘᴀɴ ɪɴ ᴛʜᴇ ʟᴏɴɢ ᴛᴇʀᴍ. Wᴇ ᴡɪʟʟ ᴜsᴇ ᴀʟʟ ᴏғ ᴛʜᴇ ᴅᴏɴᴀᴛɪᴏɴs ᴛᴏ ᴄᴏᴠᴇʀ ғᴜᴛᴜʀᴇ ᴇxᴘᴇɴsᴇs ᴀɴᴅ ᴜᴘɢʀᴀᴅᴇs ᴏғ ᴛʜᴇ sᴇʀᴠᴇʀs ᴄᴏsᴛs. Iғ ʏᴏᴜ'ᴠᴇ ɢᴏᴛ sᴘᴀʀᴇ ᴍᴏɴᴇʏ ᴛᴏ ʜᴇʟᴘ ᴜs ɪɴ ᴛʜɪs ᴇғғᴏʀᴛ, Kɪɴᴅʟʏ ᴅᴏ sᴏ ᴀɴᴅ ʏᴏᴜʀ ᴅᴏɴᴀᴛɪᴏɴs ᴄᴀɴ ᴀʟsᴏ ᴍᴏᴛɪᴠᴀᴛᴇ ᴜs ᴋᴇᴇᴘ ʙʀɪɴɢ ᴏɴ ɴᴇᴡ ғᴇᴀᴛᴜʀᴇs.
 
 Yᴏᴜ ᴄᴀɴ ʜᴇʟᴘ ᴛʜᴇ ᴅᴇᴠᴇʟᴏᴘᴍᴇɴᴛ ᴡɪᴛʜ ᴅᴏɴᴀᴛɪᴏɴs
-Upi : Gautam8292@fam
+Upi :sureshksambu3@ybl
 
-sᴇɴᴅ ss ʜᴇʀᴇ : @cosmic_freak</b>"""
+sᴇɴᴅ ss ʜᴇʀᴇ : @Preethamdg</b>"""
 
     SETTINGS_TXT = """
 Hᴇʟᴘ : <b>Sᴇᴛᴛɪɴɢꜱ</b>
@@ -125,7 +125,7 @@ Hᴇʟᴘ : <b>Sᴇᴛᴛɪɴɢꜱ</b>
 𝟹. ʙᴜᴛᴛᴏɴꜱ ꜱʜᴏᴜʟᴅ ʙᴇ ᴘʀᴏᴘᴇʀʟʏ ᴘᴀʀꜱᴇᴅ ᴀꜱ ᴍᴀʀᴋᴅᴏᴡɴ ꜰᴏʀᴍᴀᴛ
 
 ᴜʀʟ ʙᴜᴛᴛᴏɴꜱ :
-<code>[Button Text](buttonurl:https://t.me/team_netflix)</code>
+<code>[Button Text](buttonurl:https://t.me/+FOxMauI5h880ODA1)</code>
 
 ᴀʟᴇʀᴛ ʙᴜᴛᴛᴏɴꜱ :
 <code>[Button Text](buttonalert:ᴛʜɪꜱ ɪꜱ ᴀɴ ᴀʟᴇʀᴛ ᴍᴇꜱꜱᴀɢᴇ)</code>"""
@@ -1006,8 +1006,8 @@ IMDb Data:
 ● <code>250₹</code> ➛ <u>ᴘʟᴀᴛɪɴᴜᴍ ᴘʟᴀɴ</u> » <code>180 ᴅᴀʏꜱ</code>
 ● <code>400₹</code> ➛ <u>ᴅɪᴀᴍᴏɴᴅ ᴘʟᴀɴ</u> » <code>365 ᴅᴀʏꜱ</code>
 
-💵 ᴜᴘɪ ɪᴅ - <code>dm - @sewxiy</code>
-📸 ǫʀ ᴄᴏᴅᴇ - <a href='https://graph.org/file/02e7ecc3e2693b481b914.jpg'>ᴄʟɪᴄᴋ ʜᴇʀᴇ ᴛᴏ ꜱᴄᴀɴ</a>
+💵 ᴜᴘɪ ɪᴅ - <code>dm - @sureshksambu3@ybl</code>
+📸 ǫʀ ᴄᴏᴅᴇ - <a href='https://envs.sh/fz8.jpg'>ᴄʟɪᴄᴋ ʜᴇʀᴇ ᴛᴏ ꜱᴄᴀɴ</a>
 
 ⚜️ ᴄʜᴇᴄᴋ ʏᴏᴜʀ ᴀᴄᴛɪᴠᴇ ᴘʟᴀɴ ʙʏ ᴜꜱɪɴɢ : /myplan
 
@@ -1023,8 +1023,8 @@ IMDb Data:
 ● <code>250₹</code> ➛ <u>ᴘʟᴀᴛɪɴᴜᴍ ᴘʟᴀɴ</u> » <code>180 ᴅᴀʏꜱ</code>
 ● <code>400₹</code> ➛ <u>ᴅɪᴀᴍᴏɴᴅ ᴘʟᴀɴ</u> » <code>365 ᴅᴀʏꜱ</code>
 
-💵 ᴜᴘɪ ɪᴅ - <code>dm - @sewxiy</code>
-📸 ǫʀ ᴄᴏᴅᴇ - <a href='https://graph.org/file/02e7ecc3e2693b481b914.jpg'>ᴄʟɪᴄᴋ ʜᴇʀᴇ ᴛᴏ ꜱᴄᴀɴ</a>
+💵 ᴜᴘɪ ɪᴅ - <code>dm - @sureshksambu3@ybl</code>
+📸 ǫʀ ᴄᴏᴅᴇ - <a href='https://envs.sh/fz8.jpg'>ᴄʟɪᴄᴋ ʜᴇʀᴇ ᴛᴏ ꜱᴄᴀɴ</a>
 
 ⚜️ ᴄʜᴇᴄᴋ ʏᴏᴜʀ ᴀᴄᴛɪᴠᴇ ᴘʟᴀɴ ʙʏ ᴜꜱɪɴɢ : /myplan
 
@@ -1057,7 +1057,7 @@ IMDb Data:
 ○ ᴍᴜʟᴛɪ-ᴘʟᴀʏᴇʀ sᴛʀᴇᴀᴍɪɴɢ ʟɪɴᴋs
 ○ ᴀᴅ-ғʀᴇᴇ ᴇxᴘᴇʀɪᴇɴᴄᴇ
 
-👨‍💻 ᴄᴏɴᴛᴀᴄᴛ ᴛʜᴇ <a href='https://t.me/sewxiy'>ᴏᴡɴᴇʀ</a> ᴛᴏ ɢᴇᴛ ʏᴏᴜʀ ᴛʀɪᴀʟ.
+👨‍💻 ᴄᴏɴᴛᴀᴄᴛ ᴛʜᴇ <a href='https://t.me/Sanjudg01'>ᴏᴡɴᴇʀ</a> ᴛᴏ ɢᴇᴛ ʏᴏᴜʀ ᴛʀɪᴀʟ.
 
 ➛ ᴜꜱᴇ /plan ᴛᴏ ꜱᴇᴇ ᴀʟʟ ᴏᴜʀ ᴘʟᴀɴꜱ ᴀᴛ ᴏɴᴄᴇ.
 ➛ ᴄʜᴇᴄᴋ ʏᴏᴜʀ ᴀᴄᴛɪᴠᴇ ᴘʟᴀɴ ʙʏ ᴜꜱɪɴɢ : /myplan</b>"""
@@ -1124,7 +1124,7 @@ IMDb Data:
     
 ⚜️ ᴘᴀʏ ᴀᴍᴍᴏᴜɴᴛ ᴀᴄᴄᴏʀᴅɪɴɢ ᴛᴏ ʏᴏᴜʀ ᴘʟᴀɴ ᴀɴᴅ ᴇɴᴊᴏʏ ᴘʀᴇᴍɪᴜᴍ ᴍᴇᴍʙᴇʀꜱʜɪᴘ !
 
-💵 ᴜᴘɪ ɪᴅ - <code>dm - @sewxiy</code>
+💵 ᴜᴘɪ ɪᴅ - <code>dm - @sureshksambu3@ybl</code>
 
 ‼️ ᴍᴜsᴛ sᴇɴᴅ sᴄʀᴇᴇɴsʜᴏᴛ ᴀғᴛᴇʀ ᴘᴀʏᴍᴇɴᴛ.</b>"""
 
@@ -1132,7 +1132,7 @@ IMDb Data:
     
 ⚜️ ᴘᴀʏ ᴀᴍᴍᴏᴜɴᴛ ᴀᴄᴄᴏʀᴅɪɴɢ ᴛᴏ ʏᴏᴜʀ ᴘʟᴀɴ ᴀɴᴅ ᴇɴᴊᴏʏ ᴘʀᴇᴍɪᴜᴍ ᴍᴇᴍʙᴇʀꜱʜɪᴘ !
 
-📸 ǫʀ ᴄᴏᴅᴇ - <a href='https://graph.org/file/02e7ecc3e2693b481b914.jpg'>ᴄʟɪᴄᴋ ʜᴇʀᴇ ᴛᴏ ꜱᴄᴀɴ</a>
+📸 ǫʀ ᴄᴏᴅᴇ - <a href='https://envs.sh/fz8.jpg'>ᴄʟɪᴄᴋ ʜᴇʀᴇ ᴛᴏ ꜱᴄᴀɴ</a>
 
 ‼️ ᴍᴜsᴛ sᴇɴᴅ sᴄʀᴇᴇɴsʜᴏᴛ ᴀғᴛᴇʀ ᴘᴀʏᴍᴇɴᴛ.</b>"""
 
@@ -1146,8 +1146,8 @@ IMDb Data:
 ● <code>250₹</code> ➛ <u>ᴘʟᴀᴛɪɴᴜᴍ ᴘʟᴀɴ</u> » <code>180 ᴅᴀʏꜱ</code>
 ● <code>400₹</code> ➛ <u>ᴅɪᴀᴍᴏɴᴅ ᴘʟᴀɴ</u> » <code>365 ᴅᴀʏꜱ</code>
 
-💵 ᴜᴘɪ ɪᴅ - <code>dm - @sewxiy</code>
-📸 ǫʀ ᴄᴏᴅᴇ - <a href='https://graph.org/file/02e7ecc3e2693b481b914.jpg'>ᴄʟɪᴄᴋ ʜᴇʀᴇ ᴛᴏ ꜱᴄᴀɴ</a>
+💵 ᴜᴘɪ ɪᴅ - <code>dm - @sureshksambu3@ybl</code>
+📸 ǫʀ ᴄᴏᴅᴇ - <a href='https://envs.sh/fz8.jpg'>ᴄʟɪᴄᴋ ʜᴇʀᴇ ᴛᴏ ꜱᴄᴀɴ</a>
 
 ⚜️ ᴄʜᴇᴄᴋ ʏᴏᴜʀ ᴀᴄᴛɪᴠᴇ ᴘʟᴀɴ ʙʏ ᴜꜱɪɴɢ : /myplan
 
@@ -1156,7 +1156,7 @@ IMDb Data:
     DEVELOPER_TXT = """
 special Thanks To ❤️ Developer -
 
--Dev [Owner of this bot ]<a href='https://t.me/sewxiy'>mikey</a>
+-Dev [Owner of this bot ]<a href='https://t.me/Sanjudg01'>mikey</a>
 """
 
 #- ᴄʀᴇᴅɪᴛ - Github - @Codeflix-bots , @erotixe
